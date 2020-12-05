@@ -1,0 +1,2 @@
+s.no,servername,ipaddress,ostype, uptime, cpu, archtype
+ 1, ip-172-31-47-141,172.31.47.141,Linux,3:18, Intel ,x86_64
